@@ -1,4 +1,4 @@
-[---
+---
 
 ## **Student Grade Management System**
 
