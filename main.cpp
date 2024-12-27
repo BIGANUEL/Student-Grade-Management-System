@@ -789,6 +789,7 @@ int main() {
         cout << "                                          *  6. Undo Last Grade Update              *" << endl;
         cout << "                                          *  7. Prioritize Students for Extra Help  *" << endl;
         cout << "                                          *  8. Add Course for Existing Student     *" << endl;
+        cout << "                                          *  9. Exit\n                              *" << endl;
         cout << "                                          ***************************************" << endl;
         cout << "                                          Enter your choice: ";
         cin >> choice;
@@ -823,7 +824,9 @@ int main() {
         case 8:
             sms.addCourseForStudent();
             break;
-
+        case 9:
+            cout << "Existing from the program.........";
+            break;
         default:
             cout << "Invalid choice! Please try again.\n";
         }
