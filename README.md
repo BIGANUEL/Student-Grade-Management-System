@@ -1,4 +1,3 @@
-### README for Student Grade Management System
 
 ---
 
