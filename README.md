@@ -97,11 +97,10 @@ The Student Grade Management System is a C++ application designed to manage and 
 ---
 
 ### **Contributors**
-### Contributors
-**1. Amanuel Wubishet …………………………….. ETS0133/15**
-**2.  Betelhem Wondale……………………………….ETS0261/15**
-**3.  Betelhem Petros………………………………….. ETS0258/15**
-**4.  Betelhem Mengesha……………………………..ETS0257/15**
-**5.  Abel Negatu ………………………………………...ETS0033/13**
+1. **Amanuel Wubishet …………………………….. ETS0133/15**
+2.	**Betelhem Wondale……………………………….ETS0261/15**
+3.	**Betelhem Petros………………………………….. ETS0258/15**
+4.	**Betelhem Mengesha……………………………..ETS0257/15**
+5.	**Abel Negatu ………………………………………...ETS0033/13**   
 
 ---
